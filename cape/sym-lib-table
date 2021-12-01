@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name chewtoy-rescue)(type Legacy)(uri ${KIPRJMOD}/chewtoy-rescue.lib)(options "")(descr ""))
+  (lib (name chewtoy)(type Legacy)(uri /home/adam/projects/go-e/chewtoy/lib/chewtoy.lib)(options "")(descr ""))
+  (lib (name bbb)(type Legacy)(uri ${KIPRJMOD}/bbb.lib)(options "")(descr ""))
+)

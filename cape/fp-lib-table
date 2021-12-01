@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name bbb)(type Legacy)(uri "$(KIPRJMOD)/bbb.mod")(options "")(descr ""))
+  (lib (name logos)(type KiCad)(uri ../logos.pretty)(options "")(descr ""))
+)
